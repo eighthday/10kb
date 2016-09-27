@@ -1,6 +1,6 @@
 # 10kb
 
-Progressive enhancement 
+Progressive enhancement  (Building in layers)
 
 no css
  - map 
