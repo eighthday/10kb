@@ -11,12 +11,10 @@ active.innerHTML = "England"
 en.className = " active";
 
 document.getElementById('menu-toggle').addEventListener('click', function(e) {
-    if (isOpen == false) {
+
         menu.className = " show";
-        isOpen = true
-    } else {
-        closeMenu()
-    }
+
+
 
 }, false);
 
@@ -40,5 +38,5 @@ function setActive() {
 
 function closeMenu() {
     menu.className = " hide";
-    isOpen = false
+  
 }

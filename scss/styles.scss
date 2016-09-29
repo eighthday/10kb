@@ -3,13 +3,13 @@
 $highlight:#72d2ac;
 
 *:focus {
-    border:black 3px solid;
+  border:black 3px solid;
   outline:0;
 }
 
 body {
- background:#f3f3f3;
- font-family: 'Karla', sans-serif;
+  background:#f3f3f3;
+  font-family: 'Karla', sans-serif;
 }
 
 .top-margin {
@@ -17,6 +17,25 @@ body {
 }
 
 h1 {text-align:center}
+text {
+  font-size: 20px;
+  font-family:"Courier New",monospace;
+  font-weight: normal;
+
+}
+
+path {z-index: -1}
+
+#map{
+  position:absolute;;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index:1;
+  height:90vh;
+  svg{height:100%;width:auto}
+}
+
 
 // countries
 #en,
@@ -26,10 +45,6 @@ h1 {text-align:center}
 #ni,
 #ci,
 #im {
-  display: block;
-  width: 100px;
-  height: 100px;
-  border: 2px solid red;
   transition: all 1s ease-in-out;
 }
 
@@ -40,38 +55,37 @@ h1 {text-align:center}
 #bi:target #ri,
 #bi:target #ci,
 #bi:target #im {
-  background: $highlight;;
+  fill: $highlight;
 }
 
 #uk:target #wa,
 #uk:target #sc,
 #uk:target #en,
 #uk:target #ni {
-  background: $highlight;;
+  fill: $highlight;
 }
 
 #gb:target #wa,
 #gb:target #sc,
-#gb:target #en,
-#gb:target #ir {
-  background: $highlight;;
+#gb:target #en {
+  fill: $highlight;
 }
 
 #br:target #wa,
 #br:target #en {
-  background: $highlight;
+  fill: $highlight;
 }
 
 
 
 #en-wrap:target {
-  #en {
-    background: $highlight;
+  #en  {
+    fill: $highlight;
   }
 }
 
 
-#en {background:$highlight}
+#en  {fill:$highlight}
 
 .active,#en-wrap:target #en-go,
 #bi:target #bi-go,#br:target #br-go,#uk:target #uk-go,#gb:target #gb-go {
@@ -97,7 +111,7 @@ h1 {text-align:center}
 nav
 {
   list-style: none;
-  position: absolute;
+  position: fixed;
   right: 60px;
   margin-bottom: 60px;
 
@@ -113,7 +127,7 @@ nav
     &:focus {
       color: $highlight;
     }
-     &:active {
+    &:active {
       color: $highlight;
     }
 
