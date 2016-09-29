@@ -1,0 +1,108 @@
+// vendor prefix for transition @include transition(color,2.5s)
+@mixin transition($transition-property, $transition-duration, $transition-timing-function: ease, $transition-delay:0){
+    -webkit-transition: $transition-property $transition-duration $transition-timing-function $transition-delay;
+    -moz-transition: $transition-property $transition-duration $transition-timing-function $transition-delay;
+    -o-transition: $transition-property $transition-duration  $transition-timing-function $transition-delay;
+    transition: $transition-property $transition-duration  $transition-timing-function $transition-delay;
+}
+
+
+// background sprites  x,y
+@mixin sprite($spriteX,$spriteY){
+background: url('../img/sprites.svg') no-repeat $spriteX $spriteY;
+}
+
+// seperate sprite  url (minus extension)
+@mixin spriteAnim ($url){
+background: url('../img/#{$url}.svg') no-repeat 0 0;
+}
+
+
+// no svg flag
+@mixin noSvg { .noSvg & { @content } }
+
+
+// text replace
+@mixin textReplace() {
+overflow: hidden;
+text-indent: 100%;
+white-space: nowrap;
+overflow: hidden;
+}
+
+
+// pixel to rem
+@mixin font-size($sizeValue: 1.6) {
+  font-size: $sizeValue + px;
+  font-size: ($sizeValue / 10) + rem;
+}
+
+// border radius
+@mixin border-radius($a, $b, $c, $d) {
+        -webkit-border-top-left-radius: $a + px;
+        -webkit-border-top-right-radius: $b + px;
+        -webkit-border-bottom-right-radius: $c + px;
+        -webkit-border-bottom-left-radius: $d + px;
+        -moz-border-radius-topleft: $a + px;
+        -moz-border-radius-topright: $b + px;
+        -moz-border-radius-bottomright: $c + px;
+        -moz-border-radius-bottomleft: $d + px;
+        border-top-left-radius: $a + px;
+        border-top-right-radius: $b + px;
+        border-bottom-right-radius: $c + px;
+        border-bottom-left-radius: $d + px;
+}
+
+
+//  sticky footer  @include sticky-footer(30px);
+
+@mixin sticky-footer($footer-height, $wrapper-selector: unquote("#wrapper"), $container-selector: unquote("#push-footer"), $footer-selector: unquote("footer")) {
+  html, body {
+    height: 100%;
+  }
+  body {
+    margin: 0px;
+    padding: 0px;
+  }
+  #{$wrapper-selector} {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin-bottom: -$footer-height;
+    #{$container-selector} {
+      padding: 0 0 $footer-height 0;
+    }
+  }
+  #{$footer-selector} {
+    height: $footer-height;
+  }
+}
+
+
+// calcuates gutter and column size for masonry layouts
+@mixin masonry($columns,$gutter-size) {
+    $column-width: 100% / $columns - $gutter-size !global;
+    $gutter: (100 - ($columns * $column-width)) / ($columns - 1) !global;
+
+    .masonry {
+      margin: $gutter 0;
+
+      .grid-sizer {
+           width: $column-width;
+       }
+
+       .gutter-sizer {
+           width: $gutter;
+       }
+
+      .post {
+            width: $column-width;
+            margin-bottom: $gutter;
+
+            img {
+                width: 100%;
+            }
+        }
+
+    }
+}
