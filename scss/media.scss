@@ -6,6 +6,7 @@
     }
     h1 {
         font-size: 25px;
+        line-height: 28px
     }
     text {
         font-size: 31px;
@@ -21,4 +22,10 @@
     h1 {
         display: none;
     }
+
+    #territories {
+        li {
+            padding-bottom: 0px;
+          }
+        }
 }
