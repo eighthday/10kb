@@ -234,12 +234,13 @@ text {
     display: block;
 }
 .wave {
+
     stroke-width: 3;
-    stroke: #4beae2;
+    stroke: #fff;
     fill: none;
-    stroke-dasharray: 1000;
-    stroke-dashoffset: 1000;
-    animation: wave 2s ease-in-out infinite;
+    stroke-dasharray: 100;
+    stroke-dashoffset: 100;
+    animation: wave 1.5s ease-in-out infinite;
 }
 @keyframes wave {
     to {
