@@ -12,31 +12,40 @@ body {
     font-weight: 400;
 }
 h1 {
-    text-align: center;
+    float: left;
     font-size: 30px;
-    z-index: 2;
     color: $text;
+    font-weight: normal;
+    padding-right: 10px;
+    line-height: 32px;
 }
-
 // menu
-
-#select {
+#open-menu {
     position: fixed;
-    z-index: 3;
+    z-index: 2;
     top: 60px;
     right: 60px;
-    a {
-        color: $text;
-        border-bottom: $highlight 4px solid;
-        text-decoration: none;
-        padding-right: 70px;
-        padding-bottom: 4px;
+    font-size: 30px;
+    color: $text;
+    line-height: 35px;
+    padding-right: 40px;
+    text-align: right;
+    #territories {
+        float: right;
+        list-style-type: none;
+        position: relative;
+        li {
+            display: none;
+            width: 100%;
+            padding-bottom: 1px;
+            border-bottom: 3px solid $highlight;
+        }
     }
     #arrow {
         fill: $text;
         position: absolute;
         right: 0;
-        top: 12px;
+        top: 10px;
         animation: 2s 3 bounce;
     }
 }
@@ -50,6 +59,26 @@ h1 {
     }
     40% {
         -webkit-transform: translateY(-15px);
+    }
+}
+#br:target {
+    #br-a {
+        display: block;
+    }
+}
+#bi:target {
+    #bi-a {
+        display: block;
+    }
+}
+#uk:target {
+    #uk-a {
+        display: block;
+    }
+}
+#gb:target {
+    #gb-a {
+        display: block;
     }
 }
 nav {
@@ -102,53 +131,16 @@ nav {
     display: block;
     opacity: 1;
 }
-
-
-
-#territories {
-    position: relative;
-
-    li {
-        opacity: 0;
-        position: absolute;
-        top: 0;
-    }
-
-}
-
-#br:target {
-    #br-a {
-        opacity: 1;
-    }
-}
-#bi:target {
-    #bi-a {
-        opacity: 1;
-    }
-}
-#uk:target {
-    #uk-a {
-        opacity: 1;
-    }
-}
-#gb:target {
-    #gb-a {
-        opacity: 1;
-    }
-}
 #england:target {
     #en {
         fill: $highlight;
         animation: draw 1.5s ease-in-out forwards;
     }
     #en-a {
-        opacity: 1;
+        display: block;
     }
 }
-
-
 //map
-
 text {
     font-size: 18px;
     fill: $text;
@@ -183,9 +175,6 @@ text {
     stroke-dasharray: 1900;
     stroke-dashoffset: 1900;
 }
-
-
-
 #bi:target #ci,
 #bi:target #en,
 #bi:target #im,
@@ -222,7 +211,6 @@ text {
         stroke-dashoffset: 0;
     }
 }
-
 #br-h,
 #gb-h {
     display: none;
@@ -234,7 +222,6 @@ text {
 #gb:target #gb-h {
     display: block;
 }
-
 .wave {
     stroke-width: 3;
     stroke: #4beae2;
@@ -243,10 +230,8 @@ text {
     stroke-dashoffset: 100;
     animation: wave 2s ease-in-out infinite;
 }
-
 @keyframes wave {
     to {
         stroke-dashoffset: 0;
-        -webkit-transform: translateY(5px);
     }
 }
