@@ -237,8 +237,8 @@ text {
     stroke-width: 3;
     stroke: #4beae2;
     fill: none;
-    stroke-dasharray: 100;
-    stroke-dashoffset: 100;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
     animation: wave 2s ease-in-out infinite;
 }
 @keyframes wave {
