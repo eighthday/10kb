@@ -17,5 +17,6 @@ css only
  - tiny png
  - svg cleaner
  - goolge page insights
+ - frontPrep
  
 
