@@ -115,6 +115,10 @@ nav ul ul {
   top: 0;
 }
 
+#br:target #br-a {
+  opacity: 1;
+}
+
 #bi:target #bi-a {
   opacity: 1;
 }
@@ -127,12 +131,12 @@ nav ul ul {
   opacity: 1;
 }
 
-#en-wrap:target #en {
+#england:target #en {
   fill: #54E7A1;
   animation: draw 1.5s ease-in-out forwards;
 }
 
-#en-wrap:target #en-a {
+#england:target #en-a {
   opacity: 1;
 }
 
@@ -171,10 +175,6 @@ text {
   stroke: #4bb884;
   stroke-dasharray: 1900;
   stroke-dashoffset: 1900;
-}
-
-#en {
-  fill: #54E7A1;
 }
 
 #bi:target #ci,

@@ -107,10 +107,18 @@ nav {
 
 #territories {
     position: relative;
+
     li {
         opacity: 0;
         position: absolute;
         top: 0;
+    }
+
+}
+
+#br:target {
+    #br-a {
+        opacity: 1;
     }
 }
 #bi:target {
@@ -128,7 +136,7 @@ nav {
         opacity: 1;
     }
 }
-#en-wrap:target {
+#england:target {
     #en {
         fill: $highlight;
         animation: draw 1.5s ease-in-out forwards;
@@ -137,6 +145,7 @@ nav {
         opacity: 1;
     }
 }
+
 
 //map
 
@@ -175,9 +184,7 @@ text {
     stroke-dashoffset: 1900;
 }
 
-#en {
-    fill: $highlight;
-}
+
 
 #bi:target #ci,
 #bi:target #en,
