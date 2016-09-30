@@ -871,7 +871,7 @@
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
@@ -971,7 +971,7 @@
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"semicolons": {

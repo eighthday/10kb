@@ -161,9 +161,7 @@ text {
     position: absolute;
     right: 0;
     top: 12px;
-    animation-name: bounce;
-    animation-duration: 2s;
-    animation-iteration-count: 4;
+      animation: 2s 3 bounce;
   }
 }
 @-webkit-keyframes bounce {
@@ -177,9 +175,7 @@ text {
   40% {
     -webkit-transform: translateY(-15px);
   }
-  60% {
-    -webkit-transform: translateY(-7px);
-  }
+
 }
 nav {
   list-style: none;
