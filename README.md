@@ -5,10 +5,10 @@ With no css you see:
  - list of countries under each territory 
  - map 
  
-Only css is used
- - all animation, interaction work without javascipt
- 
-Accesibily 
+ - all animation, interactions work without javascipt
+ - very keyboard friendly
+ - high contrast colour pallete
+
  
  Tools used
  - tiny png
