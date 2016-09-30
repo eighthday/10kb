@@ -1,14 +1,15 @@
 
-var active = document.getElementById('active')
+
 var menuBtns
+
+var active = document.getElementById('active')
 active.innerHTML = "England"
 
 var menu = document.getElementById('menu')
-var en = document.getElementById('en-go')
-en.className = " active";
+
 
 document.getElementById('menu-toggle').addEventListener('click', function(e) {
-  e.preventDefault()
+
   menu.className = " show";
 }, false);
 
@@ -19,10 +20,6 @@ for (var i = 0; i < menuBtns.length; i++) {
 }
 
 function setActive() {
-  for (var i = 0; i < menuBtns.length; i++) {
-    menuBtns[i].className = " "
-  }
   active.innerHTML = this.innerHTML;
-  this.className = " active"
   menu.className = " hide";
 }
