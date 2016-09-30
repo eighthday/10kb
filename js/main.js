@@ -10,12 +10,8 @@ var en = document.getElementById('en-go')
 en.className = " active";
 document.getElementById('menu-toggle').addEventListener('click', function(e) {
 e.preventDefault()
-  if (isOpen == false) {
     menu.className = " show";
-    isOpen = true
-  } else {
-    closeMenu()
-  }
+
 
 }, false);
 
