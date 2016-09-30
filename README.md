@@ -1,20 +1,20 @@
 # Where I live in 10kb
 
-Progressive enhancement 
 
-no css
+With no css you see:
+ - list of countries under each territory 
  - map 
- - list of countries under each section
  
-css only
+Only css is used
  - all animation, interaction work without javascipt
  
 Accesibily 
  
  Tools used
- 
  - tiny png
  - svg cleaner
  - frontPrep
  
+9.2kb Gziped
 
+View demo
