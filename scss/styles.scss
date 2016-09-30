@@ -13,6 +13,7 @@ $text: #313131;
 body {
   background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAOklEQVQYV2O8+fbNfwYkoCYkzHDr3VtkITCbEVkhTBE2xXCF6JLofLBCXNYhizP+BwJsboI5EqQYBABmuirG1SCi+AAAAABJRU5ErkJggg==");
   font-family: 'Karla', sans-serif;
+  font-weight: 700;
 }
 
 h1 {
@@ -51,7 +52,7 @@ text {
     transition: fill 0.2s ease-in-out;
     fill: $land;
     stroke-width: 3;
-    stroke: #313131;
+    stroke: #4bb884;
     stroke-dasharray: 1900;
     stroke-dashoffset: 1900;
 }
