@@ -62,7 +62,7 @@ h1 {
         fill: $text;
         position: absolute;
         right: 20px;
-        top: 27px;
+        top: 26px;
         animation: 2s 3 bounce;
     }
 }
@@ -233,19 +233,11 @@ text {
 #gb:target #gb-h {
     display: block;
 }
-.wave {
 
-  position: absolute;
-    stroke-width: 3;
-    stroke: #fff;
-    fill: none;
-    stroke-dasharray: 100;
-    stroke-dashoffset: 100;
-    animation: wave 1.5s ease-in-out infinite;
-}
+
+
 @keyframes wave {
     to {
         stroke-dashoffset: 0;
     }
 }
-.wave2 {top:100%}
