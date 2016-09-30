@@ -117,22 +117,7 @@ text {
 #en {
   fill: $highlight;
 }
-#bi:target #bi-go,
-#br:target #br-go,
-#en-wrap:target #en-go,
-#gb:target #gb-go,
-#uk:target #uk-go,
-.active {
-  //  color: $highlight !important;
-  //border: 2px solid;
-}
-// reset active
-#bi:target #en-go,
-#br:target #en-go,
-#gb:target #en-go,
-#uk:target #en-go {
-  color: black;
-}
+
 #br-h,
 #gb-h {
   display: none;
