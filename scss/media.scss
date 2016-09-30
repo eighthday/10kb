@@ -1,8 +1,12 @@
 @media screen and (max-width: 960px) {
+  h1 {
+      display: none;
+  }
     #open-menu {
         top: 0;
         right: 0px;
         font-size: 25px;
+
     }
     h1 {
         font-size: 25px;
@@ -13,15 +17,13 @@
     }
     #map {
         height: 80vh;
-        margin-top: 20px;
+        margin-top: 24px;
     }
 
 
 }
 @media screen and (max-width: 660px) {
-    h1 {
-        display: none;
-    }
+
 
     #territories {
         li {
