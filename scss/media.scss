@@ -1,6 +1,6 @@
 @media screen and (max-width: 960px) {
     #open-menu {
-        top: 10px;
+        top: 0px;
         right: 20px;
         font-size: 25px;
     }
@@ -8,7 +8,7 @@
         font-size: 25px;
     }
     text {font-size: 31px}
-    #map {height:80vh}
+    #map {height:80vh;margin-top: 20px}
 }
 @media screen and (max-width: 660px) {
 
