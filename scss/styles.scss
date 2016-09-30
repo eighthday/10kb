@@ -5,7 +5,7 @@
 $highlight: #54E7A1;
 $water: #4DB7C7;
 $land: #fff;
-$text: #313131;
+$text: #1a1a1a;
 body {
     background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAOklEQVQYV2O8+fbNfwYkoCYkzHDr3VtkITCbEVkhTBE2xXCF6JLofLBCXNYhizP+BwJsboI5EqQYBABmuirG1SCi+AAAAABJRU5ErkJggg==");
     font-family: 'Karla', sans-serif;
@@ -18,6 +18,7 @@ h1 {
     font-weight: normal;
     padding-right: 10px;
     line-height: 32px;
+
 }
 // menu
 #open-menu {
@@ -30,6 +31,18 @@ h1 {
     line-height: 35px;
     padding-right: 40px;
     text-align: right;
+    transition: color 0.3s ease-in-out;
+    &:hover #arrow {
+       fill: blue;
+    }
+    &:hover #territories li {
+       border-bottom: 3px solid blue;
+    }
+    &:hover  {
+        color: blue;
+    }
+
+
     #territories {
         float: right;
         list-style-type: none;
@@ -38,10 +51,12 @@ h1 {
             display: none;
             width: 100%;
             padding-bottom: 1px;
+              transition: border 0.3s ease-in-out;
             border-bottom: 3px solid $highlight;
         }
     }
     #arrow {
+        transition: fill 0.3s ease-in-out;
         fill: $text;
         position: absolute;
         right: 0;
@@ -81,38 +96,37 @@ h1 {
         display: block;
     }
 }
-nav {
+#menu {
     list-style: none;
     width: 100%;
     height: 100%;
     z-index: 2;
+    background-color: rgba(233, 233, 233, 0.85);
+    position: absolute;
+    t
     li a {
         transition: color 0.2s ease-out;
         text-decoration: none;
-        color: $highlight;
+        color: $text;
         display: block;
-        padding: 10px 30px;
+        padding: 15px 30px;
         text-align: center;
         font-size: 35px;
         &:hover {
-            //  color: $highlight;
+              color: blue;
         }
         &:focus {
             //  color: $highlight;
         }
-        &:active {
-            //  color: $highlight;
-        }
     }
     ul {
-        z-index: 2;
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        margin: auto;
-        background-color: rgba(255, 255, 255, 0.9);
+        position: relative;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+        text-align: center;
+
         transition: all 0.3s ease-in-out;
         list-style-type: none;
     }
@@ -123,9 +137,6 @@ nav {
 #menu {
     display: none;
     opacity: 0;
-    nav {
-        transition: opacity 0.7s ease-in-out;
-    }
 }
 #menu:target {
     display: block;
