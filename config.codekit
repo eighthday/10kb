@@ -2,6 +2,2544 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19115",
 "files": {
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (1)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (1)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (10)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (10)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (11)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (11)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (12)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (12)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (13)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (13)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (14)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (14)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (15)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (15)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (2)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (2)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (3)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (3)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (4)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (4)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (5)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (5)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (6)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (6)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (7)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (7)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (8)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (8)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (9)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29 (9)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-29).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-30 (1)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-30 (1)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-30 (2)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-30 (2)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-30 (3)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-30 (3)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-30 (4)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-30 (4)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-30).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (DESKTOP-TV872QU's conflicted copy 2016-09-30).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (1)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (1)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (10)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (10)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (100)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (100)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (101)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (101)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (102)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (102)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (103)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (103)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (104)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (104)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (105)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (105)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (106)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (106)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (107)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (107)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (108)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (108)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (109)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (109)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (11)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (11)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (110)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (110)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (111)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (111)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (112)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (112)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (113)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (113)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (114)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (114)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (115)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (115)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (116)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (116)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (117)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (117)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (118)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (118)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (119)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (119)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (12)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (12)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (120)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (120)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (121)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (121)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (122)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (122)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (123)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (123)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (124)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (124)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (125)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (125)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (126)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (126)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (127)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (127)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (128)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (128)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (129)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (129)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (13)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (13)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (130)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (130)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (131)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (131)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (132)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (132)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (133)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (133)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (134)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (134)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (135)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (135)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (136)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (136)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (137)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (137)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (138)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (138)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (139)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (139)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (14)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (14)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (140)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (140)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (141)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (141)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (142)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (142)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (143)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (143)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (144)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (144)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (145)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (145)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (146)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (146)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (147)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (147)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (148)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (148)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (149)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (149)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (15)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (15)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (150)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (150)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (151)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (151)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (152)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (152)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (153)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (153)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (154)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (154)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (155)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (155)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (156)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (156)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (157)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (157)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (158)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (158)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (159)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (159)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (16)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (16)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (160)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (160)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (161)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (161)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (162)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (162)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (163)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (163)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (164)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (164)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (165)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (165)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (166)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (166)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (167)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (167)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (168)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (168)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (169)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (169)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (17)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (17)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (170)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (170)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (171)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (171)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (172)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (172)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (173)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (173)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (174)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (174)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (175)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (175)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (176)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (176)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (177)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (177)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (178)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (178)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (179)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (179)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (18)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (18)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (180)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (180)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (181)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (181)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (182)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (182)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (183)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (183)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (184)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (184)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (19)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (19)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (2)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (2)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (20)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (20)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (21)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (21)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (22)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (22)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (23)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (23)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (24)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (24)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (25)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (25)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (26)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (26)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (27)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (27)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (28)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (28)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (29)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (29)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (3)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (3)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (30)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (30)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (31)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (31)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (32)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (32)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (33)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (33)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (34)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (34)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (35)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (35)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (36)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (36)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (37)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (37)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (38)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (38)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (39)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (39)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (4)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (4)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (40)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (40)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (41)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (41)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (42)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (42)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (43)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (43)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (44)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (44)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (45)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (45)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (46)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (46)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (47)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (47)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (48)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (48)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (49)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (49)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (5)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (5)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (50)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (50)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (51)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (51)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (52)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (52)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (53)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (53)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (54)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (54)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (55)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (55)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (56)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (56)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (57)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (57)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (58)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (58)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (59)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (59)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (6)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (6)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (60)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (60)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (61)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (61)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (62)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (62)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (63)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (63)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (64)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (64)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (65)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (65)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (66)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (66)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (67)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (67)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (68)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (68)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (69)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (69)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (7)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (7)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (70)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (70)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (71)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (71)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (72)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (72)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (73)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (73)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (74)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (74)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (75)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (75)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (76)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (76)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (77)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (77)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (78)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (78)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (79)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (79)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (8)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (8)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (80)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (80)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (81)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (81)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (82)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (82)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (83)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (83)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (84)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (84)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (85)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (85)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (86)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (86)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (87)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (87)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (88)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (88)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (89)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (89)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (9)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (9)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (90)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (90)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (91)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (91)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (92)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (92)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (93)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (93)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (94)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (94)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (95)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (95)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (96)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (96)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (97)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (97)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (98)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (98)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (99)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29 (99)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-29).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (1)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (1)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (10)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (10)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (11)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (11)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (12)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (12)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (13)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (13)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (14)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (14)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (15)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (15)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (16)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (16)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (17)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (17)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (18)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (18)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (19)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (19)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (2)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (2)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (20)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (20)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (21)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (21)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (22)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (22)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (23)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (23)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (24)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (24)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (25)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (25)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (26)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (26)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (27)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (27)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (28)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (28)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (29)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (29)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (3)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (3)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (30)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (30)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (31)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (31)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (32)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (32)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (33)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (33)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (34)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (34)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (35)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (35)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (36)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (36)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (37)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (37)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (38)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (38)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (39)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (39)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (4)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (4)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (40)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (40)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (41)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (41)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (42)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (42)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (43)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (43)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (44)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (44)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (45)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (45)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (46)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (46)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (47)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (47)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (48)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (48)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (49)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (49)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (5)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (5)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (50)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (50)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (51)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (51)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (52)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (52)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (53)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (53)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (54)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (54)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (55)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (55)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (56)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (56)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (57)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (57)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (58)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (58)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (59)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (59)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (6)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (6)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (60)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (60)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (61)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (61)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (62)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (62)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (63)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (63)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (64)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (64)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (65)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (65)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (66)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (66)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (67)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (67)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (68)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (68)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (69)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (69)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (7)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (7)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (70)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (70)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (71)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (71)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (72)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (72)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (73)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (73)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (74)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (74)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (75)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (75)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (8)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (8)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (9)).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30 (9)).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main (Gareth Jones’s iMac's conflicted copy 2016-09-30).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/main.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -10,6 +2548,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/img\/water.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1011,
+		"inputAbbreviatedPath": "\/img\/water.png",
+		"outputAbbreviatedPath": "\/img\/water.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/index.html": {
 		"fileType": 8192,

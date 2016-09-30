@@ -1,152 +1,244 @@
-* {margin:0;padding:0}
-
-$highlight:#72d2ac;
-
+* {
+    margin: 0;
+    padding: 0;
+}
+$highlight: #54E7A1;
+$water: #4DB7C7;
+$land: #fff;
+$text: #313131;
 *:focus {
-  border:black 3px solid;
-  outline:0;
+    //border: black 3px solid;
+    outline: 0;
 }
-
 body {
-  background:#f3f3f3;
-  font-family: 'Karla', sans-serif;
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAOklEQVQYV2O8+fbNfwYkoCYkzHDr3VtkITCbEVkhTBE2xXCF6JLofLBCXNYhizP+BwJsboI5EqQYBABmuirG1SCi+AAAAABJRU5ErkJggg==");
+    font-family: 'Karla', sans-serif;
 }
 
-.top-margin {
-  margin-top:100px;
+h1 {
+    text-align: center;
+    font-size: 30px;
+    z-index: 2;
+    color: $text;
 }
-
-h1 {text-align:center}
 text {
-  font-size: 20px;
-  font-family:"Courier New",monospace;
-  font-weight: normal;
-
+    font-size: 18px;
+    fill: $text;
+    font-family: monospace;
+    font-weight: normal;
 }
-
-path {z-index: -1}
-
-#map{
-  position:absolute;;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  z-index:1;
-  height:90vh;
-  svg{height:100%;width:auto}
+#map {
+    z-index: 1;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    height: 95vh;
+    svg {
+        height: 100%;
+        width: auto;
+    }
 }
-
-
 // countries
-#en,
-#sc,
-#wa,
-#ri,
-#ni,
 #ci,
-#im {
-  transition: all 1s ease-in-out;
+#en,
+#im,
+#ni,
+#ri,
+#sc,
+#wa {
+    transition: fill 0.2s ease-in-out;
+    fill: $land;
+    stroke-width: 3;
+    stroke: #313131;
+    stroke-dasharray: 1900;
+    stroke-dashoffset: 1900;
 }
-
-#bi:target #wa,
-#bi:target #sc,
+#bi:target #ci,
 #bi:target #en,
+#bi:target #im,
 #bi:target #ni,
 #bi:target #ri,
-#bi:target #ci,
-#bi:target #im {
-  fill: $highlight;
+#bi:target #sc,
+#bi:target #wa {
+    fill: $highlight;
+    animation: draw 1.5s ease-in-out forwards;
 }
-
-#uk:target #wa,
-#uk:target #sc,
 #uk:target #en,
-#uk:target #ni {
-  fill: $highlight;
+#uk:target #ni,
+#uk:target #sc,
+#uk:target #wa {
+    fill: $highlight;
+    animation: draw 1.5s ease-in-out forwards;
 }
-
-#gb:target #wa,
+#gb:target #en,
 #gb:target #sc,
-#gb:target #en {
-  fill: $highlight;
+#gb:target #wa {
+    fill: $highlight;
+    animation: draw 1.5s ease-in-out forwards;
+}
+#br:target #en,
+#br:target #wa {
+    fill: $highlight;
+    animation: draw 1.5s ease-in-out forwards;
+}
+@keyframes draw {
+    from {
+        stroke-dashoffset: 1600;
+    }
+    to {
+        stroke-dashoffset: 0;
+    }
 }
 
-#br:target #wa,
-#br:target #en {
-  fill: $highlight;
+
+.wave {
+  stroke-width: 3;
+  stroke: #fff;
+    fill: none;
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+    animation: wave 2s ease-in-out infinite;
 }
 
+@keyframes wave {
+  to {
+     stroke-dashoffset: 0;
+            -webkit-transform: translateY(5px);
+   }
+}
 
 
 #en-wrap:target {
-  #en  {
+    #en {
+        fill: $highlight;
+        animation: draw 1.5s ease-in-out forwards;
+    }
+}
+#en {
     fill: $highlight;
-  }
 }
-
-
-#en  {fill:$highlight}
-
-.active,#en-wrap:target #en-go,
-#bi:target #bi-go,#br:target #br-go,#uk:target #uk-go,#gb:target #gb-go {
-  color: $highlight !important;
-  border:2px solid;
+#bi:target #bi-go,
+#br:target #br-go,
+#en-wrap:target #en-go,
+#gb:target #gb-go,
+#uk:target #uk-go,
+.active {
+    //  color: $highlight !important;
+    //border: 2px solid;
 }
-
 // reset active
-#bi:target #en-go,#uk:target #en-go,#gb:target #en-go,#br:target #en-go {color:black}
-
-#br-h,#gb-h{display:none;}
-#br:target #br-h{
-  display:block
+#bi:target #en-go,
+#br:target #en-go,
+#gb:target #en-go,
+#uk:target #en-go {
+    color: black;
 }
-
-#gb:target #gb-h,#en:target #en-h{
-  display:block;
+#br-h,
+#gb-h {
+    display: none;
 }
-
-
-
-
-nav
-{
-  list-style: none;
-  position: fixed;
-  right: 60px;
-  margin-bottom: 60px;
-
-  a {
-    transition: color 0.2s ease-out;
-    text-decoration:none;
-    color:black;
-    display:block;
-    padding:15px 30px;
-    text-align:center;
-    border-bottom:2px solid $highlight;
-    &:hover {color: $highlight}
-    &:focus {
-      color: $highlight;
+#br:target #br-h {
+    display: block;
+}
+#en:target #en-h,
+#gb:target #gb-h {
+    display: block;
+}
+#select {
+    position: fixed;
+    z-index: 3;
+    top: 60px;
+    right: 60px;
+    a {
+        color: $text;
+        border-bottom: $highlight 4px solid;
+        text-decoration: none;
+        padding-right: 70px;
+        padding-bottom: 4px;
     }
-    &:active {
-      color: $highlight;
+    #arrow {
+        fill: $text;
+        position: absolute;
+        right: 0;
+        top: 12px;
+        animation-name: bounce;
+        animation-duration: 2s;
+        animation-iteration-count: 4;
     }
-
-  }
-  ul {
-    margin-top:20px;
-    transition: all 0.3s ease-in-out;
-    list-style-type:none;
-    background:#fff;
-  }
-  ul ul {
-    display:none;
-  }
 }
+@-webkit-keyframes bounce {
+    0%,
+    100%,
+    20%,
+    50%,
+    80% {
+        -webkit-transform: translateY(0);
+    }
+    40% {
+        -webkit-transform: translateY(-15px);
+    }
+    60% {
+        -webkit-transform: translateY(-7px);
+    }
+}
+nav {
+    list-style: none;
 
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    li a {
+        transition: color 0.2s ease-out;
+        text-decoration: none;
+        color: $highlight;
+        display: block;
+        padding: 10px 30px;
+        text-align: center;
+        font-size: 35px;
+        &:hover {
+            //  color: $highlight;
+        }
+        &:focus {
+            //  color: $highlight;
+        }
+        &:active {
+            //  color: $highlight;
+        }
+    }
+    ul {
+      z-index: 2;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
 
+        background-color: rgba(255, 255, 255, 0.9);
+        transition: all 0.3s ease-in-out;
+        list-style-type: none;
 
-#menu {display:none}
-#menu:target {display:block}
-
-#menu.show {display:block}
-.hide {display:none;opacity:0;visiblity:hidden}
+    }
+    ul ul {
+        display: none;
+    }
+}
+#menu {
+    display: none;
+    opacity: 0;
+    transition: opacity 0.7s ease-in-out;
+}
+#menu:target {
+    display: block;
+    opacity: 1;
+}
+#menu.show {
+    display: block;
+    opacity: 1;
+}
+.hide {
+    display: none;
+    opacity: 0;
+}
