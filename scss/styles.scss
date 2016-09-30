@@ -176,7 +176,6 @@ text {
 #ri,
 #sc,
 #wa {
-    transition: fill 1s ease-in-out;
     fill: $land;
     stroke-width: 2;
     stroke: #4bb884;
@@ -190,6 +189,7 @@ text {
 #bi:target #ri,
 #bi:target #sc,
 #bi:target #wa {
+      transition: fill 1s ease-in-out;
     fill: $highlight;
     animation: draw 1.5s ease-in-out forwards;
 }
@@ -197,17 +197,20 @@ text {
 #uk:target #ni,
 #uk:target #sc,
 #uk:target #wa {
+      transition: fill 1s ease-in-out;
     fill: $highlight;
     animation: draw 1.5s ease-in-out forwards;
 }
 #gb:target #en,
 #gb:target #sc,
 #gb:target #wa {
+      transition: fill 1s ease-in-out;
     fill: $highlight;
     animation: draw 1.5s ease-in-out forwards;
 }
 #br:target #en,
 #br:target #wa {
+      transition: fill 1s ease-in-out;
     fill: $highlight;
     animation: draw 1.5s ease-in-out forwards;
 }
