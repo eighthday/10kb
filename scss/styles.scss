@@ -62,7 +62,7 @@ h1 {
         fill: $text;
         position: absolute;
         right: 20px;
-        top: 26px;
+        top: 27px;
         animation: 2s 3 bounce;
     }
 }
@@ -235,6 +235,7 @@ text {
 }
 .wave {
 
+  position: absolute;
     stroke-width: 3;
     stroke: #fff;
     fill: none;
@@ -247,3 +248,4 @@ text {
         stroke-dashoffset: 0;
     }
 }
+.wave2 {top:100%}
