@@ -10,5 +10,12 @@ css only
  - all animation, interaction work without css
  
  js
- - tiny file, async enhances menu to better show current selection and close without click. 
+ - tiny file, async enhances menu to better show current selection and close without click.
+ 
+ Tools used
+ 
+ - tiny png
+ - svg cleaner
+ - goolge page insights
+ 
 
