@@ -1,22 +1,20 @@
 # Where I live in 10kb
 
-Progressive enhancement  (Building in layers)
+Progressive enhancement 
 
 no css
  - map 
  - list of countries under each section
  
 css only
- - all animation, interaction work without css
+ - all animation, interaction work without javascipt
  
- js
- - tiny file, async enhances menu to better show current selection and close without click.
+Accesibily 
  
  Tools used
  
  - tiny png
  - svg cleaner
- - goolge page insights
  - frontPrep
  
 
