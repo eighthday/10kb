@@ -3,16 +3,16 @@
 A useful little illustration to explain the complexities of where I live. 
 
 With no css you see:
- - list of countries under each territory 
- - map 
+*list of countries under each territory 
+*map 
  
- ##Features
- - All animation & interactions work without javascipt
- - Keyboard friendly
- - High contrast colour pallete
- - web font!
+##Features
+*All animation & interactions work without javascipt
+*Keyboard friendly
+*High contrast colour pallete
+*web font!
 
- ##Tools used
+##Tools used
  - tiny png
  - svg cleaner
  - fontPrep
