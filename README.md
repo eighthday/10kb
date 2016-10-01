@@ -2,15 +2,15 @@
 
 A useful little illustration to explain the complexities of where I live. 
 
-With no css you see:
-*list of countries under each territory 
-*map 
- 
 ##Features
 * All animation & interactions work without javascipt
 * Keyboard friendly
 * High contrast colour pallete
 * web font!
+
+With no css you see:
+* list of countries under each territory 
+* map 
 
 ##Tools used
  - tiny png
