@@ -6,16 +6,19 @@ With no css you see:
  - list of countries under each territory 
  - map 
  
+ 
  Features
  - All animation & interactions work without javascipt
  - Keyboard friendly
  - High contrast colour pallete
 
  
+ 
  Tools used
  - tiny png
  - svg cleaner
  - fontPrep
+ 
  
 9.2kb Gziped
 
