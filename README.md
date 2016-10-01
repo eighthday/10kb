@@ -1,5 +1,6 @@
 # Where I live in 10kb
 
+A useful little illustation to explain the complexities of where I live. 
 
 With no css you see:
  - list of countries under each territory 
@@ -18,3 +19,4 @@ With no css you see:
 9.2kb Gziped
 
 View demo
+https://eighthday.github.io/10kb
