@@ -7,10 +7,10 @@ With no css you see:
 *map 
  
 ##Features
-*All animation & interactions work without javascipt
-*Keyboard friendly
-*High contrast colour pallete
-*web font!
+* All animation & interactions work without javascipt
+* Keyboard friendly
+* High contrast colour pallete
+* web font!
 
 ##Tools used
  - tiny png
