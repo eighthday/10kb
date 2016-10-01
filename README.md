@@ -6,21 +6,19 @@ With no css you see:
  - list of countries under each territory 
  - map 
  
- 
- Features
+ ##Features
  - All animation & interactions work without javascipt
  - Keyboard friendly
  - High contrast colour pallete
+ - web font!
 
- 
- 
- Tools used
+ ##Tools used
  - tiny png
  - svg cleaner
  - fontPrep
  
  
-9.2kb Gziped
+##9.2kb Gziped
 
-View demo
+##View demo
 https://eighthday.github.io/10kb
