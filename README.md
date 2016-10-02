@@ -10,7 +10,7 @@ A useful interactive map to explain the complexities of where I live.
 * css inlined for speed
 
 
-With css disabled all information is cleary and logically displayed:
+With css disabled all information is  logically displayed as:
 * List of countries under each territory 
 * Usable map 
 
