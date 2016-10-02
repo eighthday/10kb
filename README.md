@@ -1,6 +1,6 @@
 # Where I live in 10kb
 
-A useful interactive map to explain the complexities of where I live. 
+A useful interactive map to explain the complexities of where I live for [10kapart](https://a-k-apart.com/) 
 
 ##Features
 * No javascript, all animation & interactions work without javascript
