@@ -6,7 +6,7 @@ A useful interactive map to explain the complexities of where I live for [10k ap
 * No javascript, all animation & interactions work without javascript
 * Keyboard friendly - you can navigate the site using only the keyboard
 * High contrast colour pallete - WCAG AAA
-* Web font included within the total page size!
+* Web font and favicon included within the total page size!
 * css inlined for speed
 
 
@@ -17,10 +17,10 @@ With css disabled all information is  logically displayed as:
 ## Tools used
 
 ### Optimising  
-* [tiny png] (https://tinypng.com/)
-* [svg cleaner]  (https://sourceforge.net/projects/svgcleaner/)
-* [fontPrep] (https://github.com/briangonzalez/fontprep)
-* [codekit] (https://incident57.com/codekit/)
+* [tiny png - compressing pngs] (https://tinypng.com/)
+* [svg cleaner - compressing svgs]  (https://sourceforge.net/projects/svgcleaner/)
+* [fontPrep - font subsetting] (https://github.com/briangonzalez/fontprep)
+* [codekit - css minifiy] (https://incident57.com/codekit/)
 
 ### Accessibility  
 * [Accessibility Developer Tools - 0 errors](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
@@ -30,6 +30,7 @@ With css disabled all information is  logically displayed as:
 
 ### Performance  
 * [Page insights - 100/100 score] (https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Feighthday.github.io%2F10kb%2F)
+* [ySlow - Grade A 99] (http://yslow.org/)
 * [Pingdom speed test - 100%] (https://tools.pingdom.com/#!/bJoUoF/https://eighthday.github.io/10kb/)
 
 ![pingdom](https://s9.postimg.org/r4xiqiqhb/speed.png "pingdom")
