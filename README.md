@@ -17,8 +17,8 @@ With css disabled all information is  logically displayed as:
 ## Tools used
 
 ### Optimising  
-* [tiny png - compressing pngs] (https://tinypng.com/)
-* [svg cleaner - compressing svgs]  (https://sourceforge.net/projects/svgcleaner/)
+* [tiny png - compressed  favicon] (https://tinypng.com/)
+* [svg cleaner - compressed svgs, also did manual clean up]  (https://sourceforge.net/projects/svgcleaner/)
 * [fontPrep - font subsetting] (https://github.com/briangonzalez/fontprep)
 * [codekit - css minifiy] (https://incident57.com/codekit/)
 
@@ -35,7 +35,15 @@ With css disabled all information is  logically displayed as:
 
 ![pingdom](https://s9.postimg.org/r4xiqiqhb/speed.png "pingdom")
 
-##8.7kb Gziped
 
+## Tested on
+* IE8+
+* Chrome 
+* Firefox
+* Safari
+* Chrome fot Android 
+* ios 9 Safari
+
+##8.7kb Gziped
 ##View demo
 https://eighthday.github.io/10kb
