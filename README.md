@@ -17,14 +17,14 @@ With css disabled all information is cleary and logically displayed:
 ## Tools used
 
 ### Optimising  
-*[tiny png] (https://tinypng.com/)
-*[svg cleaner]  (https://sourceforge.net/projects/svgcleaner/)
-*[fontPrep] (https://github.com/briangonzalez/fontprep)
+* [tiny png] (https://tinypng.com/)
+* [svg cleaner]  (https://sourceforge.net/projects/svgcleaner/)
+* [fontPrep] (https://github.com/briangonzalez/fontprep)
 
 ### Accessibility  
-*[Accessibility Developer Tools - 0 errors](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
-*[Contrast Ratio Checker - AAA](https://chrome.google.com/webstore/detail/contrast-ratio-checker/kmicfegjejpginnockfnjpdgeffebdcf?hl=en)
-*[Wave - 0 errors] (http://wave.webaim.org/)
+* [Accessibility Developer Tools - 0 errors](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
+* [Contrast Ratio Checker - AAA](https://chrome.google.com/webstore/detail/contrast-ratio-checker/kmicfegjejpginnockfnjpdgeffebdcf?hl=en)
+* [Wave - 0 errors] (http://wave.webaim.org/)
 *[OSX VoiceOver - text speech provides complete understanding ](http://www.apple.com/uk/accessibility/osx/voiceover/)
 
 ### Performance  
