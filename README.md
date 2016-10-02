@@ -7,22 +7,33 @@ A useful interactive map to explain the complexities of where I live.
 * Keyboard friendly - you can navigate the site using only the keyboard
 * High contrast colour pallete - WCAG AAA
 * Web font included within the total page size!
+* css inlined for speed
 
 
 With css disabled all information is cleary and logically displayed:
 * List of countries under each territory 
 * Usable map 
 
-##Testing tools used
- - [tiny png] (https://tinypng.com/)
- - [svg cleaner]  (https://sourceforge.net/projects/svgcleaner/)
- - [fontPrep] (https://github.com/briangonzalez/fontprep)
- - [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
- - [Contrast Ratio Checker](https://chrome.google.com/webstore/detail/contrast-ratio-checker/kmicfegjejpginnockfnjpdgeffebdcf?hl=en)
- - http://wave.webaim.org/
+## Tools used
 
+### Optimising  
+*[tiny png] (https://tinypng.com/)
+*[svg cleaner]  (https://sourceforge.net/projects/svgcleaner/)
+*[fontPrep] (https://github.com/briangonzalez/fontprep)
 
-##9.2kb Gziped
+### Accessibility  
+*[Accessibility Developer Tools - 0 errors](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
+*[Contrast Ratio Checker - AAA](https://chrome.google.com/webstore/detail/contrast-ratio-checker/kmicfegjejpginnockfnjpdgeffebdcf?hl=en)
+*[Wave - 0 errors] (http://wave.webaim.org/)
+*[OSX VoiceOver - text speech provides complete understanding ](http://www.apple.com/uk/accessibility/osx/voiceover/)
+
+### Performance  
+* [Page insights - 100/100 score] (https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Feighthday.github.io%2F10kb%2F)
+* [Pingdom speed test - 100%] (https://tools.pingdom.com/#!/bJoUoF/https://eighthday.github.io/10kb/)
+
+![pingdom](https://s9.postimg.org/r4xiqiqhb/speed.png "pingdom")
+
+##8.7kb Gziped
 
 ##View demo
 https://eighthday.github.io/10kb
